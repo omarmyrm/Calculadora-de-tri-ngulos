@@ -1,3 +1,6 @@
+#By Omar Moya Romero 14/11/2020
+
+
 import math
 print("BIENVENIDO A LA CALCULADORA DE TRIÁNGULOS")
 print("--------------------------------------------------------------")
